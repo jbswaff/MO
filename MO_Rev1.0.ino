@@ -21,11 +21,11 @@
   evident as it is used more. Please report bugs on thingiverse: https://www.thingiverse.com/thing:3319967
   3D Printable parts can also be download at this link.
 
-  Custization of code should be fairly easy even with no Arduino programming experience.
+  Customization of code should be fairly easy even with no Arduino programming experience.
   Variables below are split into two categories: ones that you should not change and ones that can
-  be changed to customize functionality. Default values of these variables have been noted for your
-  convenience in case something gets broke. Additional servo positions can easily be added: see
-  servo control section for instructions.
+  be changed to customize functionality. Comments show which variables can be changed. Default values of 
+  these variables have been noted for your convenience in case something breaks. Additional servo positions 
+  can easily be added: see servo control section for instructions.
 
   Use serial monitor for debugging. Status gets printed to serial when standby is entered, run mode is
   started, a pushbutton is pressed, or motion is sensed.
